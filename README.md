@@ -1,6 +1,6 @@
 # Django_projects_
 Student Management System in Django: A comprehensive web app for educational institutions to manage student information. Simplify administrative tasks, streamline communication, and enhance student performance manage.
- Title: SmartEdSystem in Django 
+# Title: SmartEdSystem in Django 
 Student Management System in Django: A robust web application for educational institutions to efficiently manage student information. Simplify administrative tasks, streamline communication, and enhance student performance monitoring. Features include user authentication, student profile management, course and subject management, attendance tracking, gradebook management, timetable generation, communication tools, report generation, and data analytics. The system is scalable, customizable, and integrates easily with existing systems.
 
  --------------------------------------------------------------------------- 
